@@ -1,8 +1,4 @@
-# Awesome-DynamicGraphLearning
-
-Awesome papers (codes) about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs) and their applications (i.e. recommendation).
-
-将深度学习技术(图神经网络等)应用在动态图、动态网络、动态知识图谱上的论文、代码、工具等。
+# Dynamic Graph Learning
 
 ## Survey
 
@@ -102,20 +98,3 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**ICML, 2017**) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[code](https://github.com/rstriv/Know-Evolve)]
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
-
-## Tools
-
-### General Graph Learning
-* [Deep Graph Library](https://www.dgl.ai/)
-* [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
-* [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
-* [Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
-* [GraphVite](https://graphvite.io/)
-
-### Knowledge Graph
-* [DGL-KE](https://dglke.dgl.ai/doc/)
-* [OpenKE](https://github.com/thunlp/OpenKE)
-
-### Recommender System
-* [RecBole](https://www.recbole.io/)
-
