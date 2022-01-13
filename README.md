@@ -11,7 +11,7 @@
 ### 2022
 
 * Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (**WSDM, 2022**) [[paper](https://arxiv.org/pdf/2110.14875.pdf)][[code](https://github.com/hyeonjeong1/cutnpeel)]
-* Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**) [[paper](http://www.shichuan.org/doc/120.pdf)]
+* Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**) [[Paper](http://www.shichuan.org/doc/120.pdf)][[Code](https://github.com/BUPT-GAMMA/MetaDyGNN)]
 * On Generalizing Static Node Embedding to Dynamic Settings (**WSDM, 2022**) [[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
 ### 2021
 
