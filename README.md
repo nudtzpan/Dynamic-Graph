@@ -6,12 +6,10 @@
 * A Survey on Embedding Dynamic Graphs (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2101.01229v1.pdf)]
 * Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey (**ARXIV, 2019**) [[paper](https://arxiv.org/pdf/1905.11485v1.pdf)]
 
-
 ## Papers
 
 ### 2022
 
-* EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs (**WSDM, 2022**)
 * Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (**WSDM, 2022**) [[paper](https://arxiv.org/pdf/2110.14875.pdf)][[code](https://github.com/hyeonjeong1/cutnpeel)]
 * Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**) [[paper](http://www.shichuan.org/doc/120.pdf)]
 * On Generalizing Static Node Embedding to Dynamic Settings (**WSDM, 2022**) [[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
@@ -21,11 +19,8 @@
 * Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
-* Learning to Walk across Time for Temporal Knowledge Graph Completion (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2012.10595v1.pdf)]
 * Forecasting Interaction Order on Temporal Graphs (**KDD, 2021**) 
-* Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning (**SIGIR, 2021**) [[paper](https://arxiv.org/pdf/2104.10353.pdf)][[code](https://github.com/Lee-zix/RE-GCN)]
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR, 2021**)
-* TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion [[paper](https://arxiv.org/pdf/2104.08419.pdf)]
 * SDG: A Simplified and Dynamic Graph Neural Network (**SIGIR SHORT, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
 * Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR SHORT, 2021**) [[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
 * HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
@@ -46,7 +41,6 @@
 * Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) [[paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[code](https://github.com/twitter-research/tgn)]
 * A Data-Driven Graph Generative Model for Temporal Interaction Networks (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
-* Dynamic Knowledge Graph based Multi-Event Forecasting (**KDD, 2020**) [[paper](https://yue-ning.github.io/docs/KDD20-glean.pdf)][[code](https://github.com/amy-deng/glean)]
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
@@ -61,8 +55,6 @@
 * tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
 * Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
 * Disentangle-based Continual Graph Representation Learning (**EMNLP, 2020**) [[paper](https://arxiv.org/pdf/2010.02565.pdf)][[code](https://github.com/KXY-PUBLIC/DiCGRL)]
-* TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)][[code](https://github.com/JiapengWu/TeMP)]
-* Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)][[code](https://github.com/INK-USC/RE-Net)]
 * EPNE: Evolutionary Pattern Preserving Network Embedding (**ECAI, 2020**) [[paper](http://ecai2020.eu/papers/528_paper.pdf)]
 * GloDyNE: Global Topology Preserving Dynamic Network Embedding (**TKDE, 2020**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)][[code](https://github.com/houchengbin/GloDyNE)]
 * Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (**TKDE, 2020**) [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
@@ -95,6 +87,15 @@
 
 ### 2017
 
-* Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**ICML, 2017**) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[code](https://github.com/rstriv/Know-Evolve)]
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
+
+## Temporal KG
+* EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs (**WSDM, 2022**)
+* Learning to Walk across Time for Temporal Knowledge Graph Completion (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2012.10595v1.pdf)]
+* Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning (**SIGIR, 2021**) [[paper](https://arxiv.org/pdf/2104.10353.pdf)][[code](https://github.com/Lee-zix/RE-GCN)]
+* TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion [[paper](https://arxiv.org/pdf/2104.08419.pdf)]
+* Dynamic Knowledge Graph based Multi-Event Forecasting (**KDD, 2020**) [[paper](https://yue-ning.github.io/docs/KDD20-glean.pdf)][[code](https://github.com/amy-deng/glean)]
+* TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)][[code](https://github.com/JiapengWu/TeMP)]
+* Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)][[code](https://github.com/INK-USC/RE-Net)]
+* Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**ICML, 2017**) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[code](https://github.com/rstriv/Know-Evolve)]
