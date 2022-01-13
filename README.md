@@ -44,7 +44,7 @@
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
-* Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
+* ⭐️ Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
 * Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[code](https://github.com/wangjlgz/HyperRec)]
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
