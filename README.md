@@ -29,7 +29,6 @@
 * F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams (**WSDM, 2021**) `Cite 7` [[paper](https://cs.stanford.edu/people/jure/pubs/ffade-wsdm21.pdf)][[code](https://github.com/snap-stanford/F-FADE)]
 * Cache-based GNN System for Dynamic Graphs (**CIKM 2021**) `Cite 0` [[paper]]
 * Self-supervised Representation Learning on Dynamic Graphs `Cite 0` (**CIKM 2021**)[[paper]]
-* Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer `Cite 8` [[paper](https://arxiv.org/pdf/2108.06625.pdf)][[code](https://github.com/DyGRec/TGSRec)]
 * Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (**CIKM 2021**) `Cite 6` [[paper](https://arxiv.org/pdf/2005.07427.pdf)]
 * Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (**ARXIV, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
 
@@ -86,6 +85,7 @@
 * ⭐️ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]
 
 ## Recommender Systems
+* Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM 2021**) `Cite 8` [[paper](https://arxiv.org/pdf/2108.06625.pdf)][[code](https://github.com/DyGRec/TGSRec)]
 * ⭐️ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR Short, 2021**) [[Paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
 * ⭐️ Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[Paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[Code](https://github.com/wangjlgz/HyperRec)]
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
