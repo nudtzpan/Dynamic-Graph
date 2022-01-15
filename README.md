@@ -20,7 +20,7 @@
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space `Cite 3` (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
-* Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences `Cite 0` (**SIGIR, 2021**)
+* Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences `Cite 0` (**SIGIR Short, 2021**) [[paper](https://arxiv.org/pdf/2110.00267.pdf)]
 * SDG: A Simplified and Dynamic Graph Neural Network `Cite 4` (**SIGIR SHORT, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
 * TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (**WWW, 2021**) `Cite 2` [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
 * Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs (**AAAI, 2021**) `Cite 6` [[paper](https://arxiv.org/pdf/2104.02228.pdf)]
@@ -86,7 +86,7 @@
 * ⭐️ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]
 
 ## Recommender Systems
-* ⭐️ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR SHORT, 2021**) [[Paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
+* ⭐️ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR Short, 2021**) [[Paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
 * ⭐️ Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[Paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[Code](https://github.com/wangjlgz/HyperRec)]
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
 
