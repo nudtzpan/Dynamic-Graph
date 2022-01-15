@@ -35,7 +35,7 @@
 
 ### 2020
 
-* Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) `Cite 76` [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
+* ⭐️ Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) `Cite 76` [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) `Cite 66` [[paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[code](https://github.com/twitter-research/tgn)]
 * A Data-Driven Graph Generative Model for Temporal Interaction Networks (**KDD, 2020**) `Cite 24` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) `Cite 3` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
