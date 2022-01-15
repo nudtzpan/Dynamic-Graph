@@ -18,7 +18,7 @@
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) `Cite 10` [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
 * Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) `Cite 2` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
-* Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space `Cite 3` [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
+* Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space `Cite 3` (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences `Cite 0` (**SIGIR, 2021**)
 * SDG: A Simplified and Dynamic Graph Neural Network `Cite 4` (**SIGIR SHORT, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
