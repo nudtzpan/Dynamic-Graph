@@ -22,12 +22,10 @@
 * Forecasting Interaction Order on Temporal Graphs (**KDD, 2021**) 
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR, 2021**)
 * SDG: A Simplified and Dynamic Graph Neural Network (**SIGIR SHORT, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
-* HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
 * TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (**WWW, 2021**) [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
 * Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2104.02228.pdf)]
 * Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
-* Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
 * F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams (**WSDM, 2021**) [[paper](https://cs.stanford.edu/people/jure/pubs/ffade-wsdm21.pdf)][[code](https://github.com/snap-stanford/F-FADE)]
 * Cache-based GNN System for Dynamic Graphs (**CIKM 2021**) [[paper]]
 * Self-supervised Representation Learning on Dynamic Graphs (**CIKM 2021**)[[paper]]
@@ -42,20 +40,17 @@
 * A Data-Driven Graph Generative Model for Temporal Interaction Networks (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
-* Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * ⭐️ Streaming Graph Neural Network (**SIGIR, 2020**) [[Paper](https://arxiv.org/pdf/1810.10627.pdf)][[Code](https://github.com/alge24/DyGNN)]
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
 * Dynamic Graph Collaborative Filtering (**ICDM, 2020**) [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
 * ⭐️ DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[Code](https://github.com/aravindsankar28/DySAT)]
-* Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)][[code]()]
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 * tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
 * Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
 * Disentangle-based Continual Graph Representation Learning (**EMNLP, 2020**) [[paper](https://arxiv.org/pdf/2010.02565.pdf)][[code](https://github.com/KXY-PUBLIC/DiCGRL)]
 * EPNE: Evolutionary Pattern Preserving Network Embedding (**ECAI, 2020**) [[paper](http://ecai2020.eu/papers/528_paper.pdf)]
 * GloDyNE: Global Topology Preserving Dynamic Network Embedding (**TKDE, 2020**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)][[code](https://github.com/houchengbin/GloDyNE)]
-* Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (**TKDE, 2020**) [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
 * Lifelong Graph Learning (**ARXIV, 2020**) [[paper](https://arxiv.org/pdf/2009.00647.pdf)]
 
 ### 2019
@@ -83,6 +78,13 @@
 
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)][[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
+
+## Heterogeneous Information Network
+* HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
+* Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
+* Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
+* Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)][[code]()]
+* Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (**TKDE, 2020**) [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
 
 ## Recommender Systems
 * ⭐️ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR SHORT, 2021**) [[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
