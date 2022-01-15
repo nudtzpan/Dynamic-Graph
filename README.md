@@ -58,7 +58,6 @@
 * Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) `Cite 50` [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
 * Recurrent Space-time Graph Neural Networks (**NeurIPS, 2019**) `Cite 18` [[paper](http://export.arxiv.org/pdf/1904.05582#:~:text=Our%20recurrent%20neural%20graph%20ef%EF%AC%81ciently%20processes%20information%20in,in%20space-time%20using%20a%20backbone%20deep%20neural%20network.)][[code](https://github.com/IuliaDuta/RSTG)]
 * ⭐️ DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) `Cite 151` [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
-* Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[paper](https://arxiv.org/pdf/1908.01207.pdf)][[code](https://github.com/srijankr/jodie)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 * EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) `Cite 232` [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
 * Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) `Cite 11` [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
@@ -84,6 +83,7 @@
 * Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) `Cite 1` [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) `Cite 193` [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (**TKDE, 2020**) `Cite 23` [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
+* ⭐️ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[paper](https://arxiv.org/pdf/1908.01207.pdf)][[code](https://github.com/srijankr/jodie)]
 
 ## Recommender Systems
 * ⭐️ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR SHORT, 2021**) [[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
