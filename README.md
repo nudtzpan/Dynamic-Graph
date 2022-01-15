@@ -19,7 +19,6 @@
 * Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) `Cite 2` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space `Cite 3` (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
-* Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences `Cite 0` (**SIGIR Short, 2021**) [[paper](https://arxiv.org/pdf/2110.00267.pdf)]
 * SDG: A Simplified and Dynamic Graph Neural Network `Cite 4` (**SIGIR SHORT, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
 * TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (**WWW, 2021**) `Cite 2` [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
@@ -76,6 +75,9 @@
 
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) `Cite 20` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)][[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) `Cite 268` [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
+
+## Others
+* Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 
 ## Heterogeneous Information Network
 * HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) `Cite 1` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
