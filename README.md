@@ -11,11 +11,11 @@
 ### 2022
 
 * Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (**WSDM, 2022**) [[paper](https://arxiv.org/pdf/2110.14875.pdf)][[code](https://github.com/hyeonjeong1/cutnpeel)]
-* ⭐️ Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**) [[Paper](http://www.shichuan.org/doc/120.pdf)][[Code](https://github.com/BUPT-GAMMA/MetaDyGNN)]
+* ✅ Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**) [[Paper](http://www.shichuan.org/doc/120.pdf)][[Code](https://github.com/BUPT-GAMMA/MetaDyGNN)]
 * On Generalizing Static Node Embedding to Dynamic Settings (**WSDM, 2022**) [[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
 ### 2021
 
-* ✅ Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) `Cite 10` [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
+* ✅ ⭐️ Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) `Cite 10` [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
 * Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) `Cite 2` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space `Cite 3` (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
@@ -32,17 +32,17 @@
 
 ### 2020
 
-* ⭐️ ✅ Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) `Cite 76` [[Paper](https://arxiv.org/pdf/2002.07962.pdf)][[Code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
-* ⭐️ Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) `Cite 66` [[Paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[Code](https://github.com/twitter-research/tgn)]
+* ✅ ⭐️ Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) `Cite 76` [[Paper](https://arxiv.org/pdf/2002.07962.pdf)][[Code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
+* ✅ Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) `Cite 66` [[Paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[Code](https://github.com/twitter-research/tgn)]
 * A Data-Driven Graph Generative Model for Temporal Interaction Networks (**KDD, 2020**) `Cite 24` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) `Cite 3` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) `Cite 11` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
-* ⭐️ Streaming Graph Neural Network (**SIGIR, 2020**) `Cite 57` [[Paper](https://arxiv.org/pdf/1810.10627.pdf)][[Code](https://github.com/alge24/DyGNN)]
-* ⭐️ ✅ EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) `Cite 232` [[Paper](https://arxiv.org/pdf/1902.10191.pdf)][[Code](https://github.com/IBM/EvolveGCN)]
+* ✅ Streaming Graph Neural Network (**SIGIR, 2020**) `Cite 57` [[Paper](https://arxiv.org/pdf/1810.10627.pdf)][[Code](https://github.com/alge24/DyGNN)]
+* ✅ ⭐️ EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) `Cite 232` [[Paper](https://arxiv.org/pdf/1902.10191.pdf)][[Code](https://github.com/IBM/EvolveGCN)]
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) `Cite 4` [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) `Cite 6` [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
 * Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
-* ⭐️ ✅ DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) `Cite 104` [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[Code](https://github.com/aravindsankar28/DySAT)]
+* ✅ DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) `Cite 104` [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[Code](https://github.com/aravindsankar28/DySAT)]
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) `Cite 7` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 * tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) `Cite 2` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
 * Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) `Cite 6` [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
@@ -53,20 +53,20 @@
 
 ### 2019
 
-* Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) `Cite 50` [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
+* ⭐️ Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) `Cite 50` [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
 * Recurrent Space-time Graph Neural Networks (**NeurIPS, 2019**) `Cite 18` [[paper](http://export.arxiv.org/pdf/1904.05582#:~:text=Our%20recurrent%20neural%20graph%20ef%EF%AC%81ciently%20processes%20information%20in,in%20space-time%20using%20a%20backbone%20deep%20neural%20network.)][[code](https://github.com/IuliaDuta/RSTG)]
-* ⭐️ ✅ DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) `Cite 151` [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
+* ✅ ⭐️ DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) `Cite 151` [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 * Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) `Cite 11` [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
 * Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) `Cite 71` [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
-* ⭐️⭐️ ✅ Node Embedding over Temporal Graphs (**IJCAI, 2019**) `Cite 68` [[Paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[Code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
+* ✅ Node Embedding over Temporal Graphs (**IJCAI, 2019**) `Cite 68` [[Paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[Code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
 * Temporal Network Embedding with Micro- and Macro-dynamics (**CIKM, 2019**) `Cite 33` [[paper](https://par.nsf.gov/servlets/purl/10148548)][[code](https://github.com/rootlu/MMDNE)]
 
 ### 2018
 
 * NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks (**KDD, 2018**) `Cite 154` [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/kdmsit/NetWalk)]
 * Embedding Temporal Network via Neighborhood Formation (**KDD, 2018**) `Cite 124` [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220054)][[code]()]
-* Dynamic Network Embedding by Modeling Triadic Closure Process (**AAAI, 2018**) `Cite 277` [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
+* ⭐️ Dynamic Network Embedding by Modeling Triadic Closure Process (**AAAI, 2018**) `Cite 277` [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
 * Continuous-Time Dynamic Network Embeddings (**WWW, 2018**) `Cite 263` [[paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191526)][[code](https://github.com/Shubhranshu-Shekhar/ctdne)]
 * Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding (**IJCAI, 2018**) `Cite 134` [[paper](https://www.ijcai.org/proceedings/2018/0288.pdf)]
 
@@ -84,12 +84,12 @@
 * Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) `Cite 1` [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) `Cite 193` [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (**TKDE, 2020**) `Cite 23` [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
-* ⭐️ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]
+* ✅ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]
 
 ## Recommender Systems
 * Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM 2021**) `Cite 8` [[paper](https://arxiv.org/pdf/2108.06625.pdf)][[code](https://github.com/DyGRec/TGSRec)]
-* ⭐️ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR Short, 2021**) [[Paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
-* ⭐️ Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[Paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[Code](https://github.com/wangjlgz/HyperRec)]
+* ✅ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR Short, 2021**) [[Paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
+* ✅ Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[Paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[Code](https://github.com/wangjlgz/HyperRec)]
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
 
 ## Temporal Knowledge Graph
