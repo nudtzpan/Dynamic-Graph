@@ -24,7 +24,6 @@
 * TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (**WWW, 2021**) `Cite 2` [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
 * Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs (**AAAI, 2021**) `Cite 6` [[paper](https://arxiv.org/pdf/2104.02228.pdf)]
 * Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (**AAAI, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
-* Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
 * F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams (**WSDM, 2021**) `Cite 7` [[paper](https://cs.stanford.edu/people/jure/pubs/ffade-wsdm21.pdf)][[code](https://github.com/snap-stanford/F-FADE)]
 * Cache-based GNN System for Dynamic Graphs (**CIKM 2021**) `Cite 0` [[paper]]
 * Self-supervised Representation Learning on Dynamic Graphs `Cite 0` (**CIKM 2021**)[[paper]]
@@ -78,6 +77,7 @@
 
 ## Others
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
+* Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
 
 ## Heterogeneous Information Network
 * HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) `Cite 1` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
