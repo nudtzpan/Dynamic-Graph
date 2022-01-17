@@ -73,7 +73,7 @@
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) `Cite 20` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)][[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) `Cite 268` [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
 
-## Less related
+## Less Related
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
