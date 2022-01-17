@@ -87,8 +87,8 @@
 
 ## Recommender Systems
 * Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM 2021**) `Cite 8` [[paper](https://arxiv.org/pdf/2108.06625.pdf)][[code](https://github.com/DyGRec/TGSRec)]
-* ✅ Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR Short, 2021**) [[Paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
-* ✅ Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[Paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[Code](https://github.com/wangjlgz/HyperRec)]
+* Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR Short, 2021**) [[Paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
+* Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[Paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[Code](https://github.com/wangjlgz/HyperRec)]
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
 
 ## Temporal Knowledge Graph
