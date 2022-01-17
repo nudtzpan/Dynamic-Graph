@@ -54,6 +54,7 @@
 
 * ⭐️ Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) `Cite 50` [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
 * ✅ ⭐️ DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) `Cite 151` [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
+* ✅ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 * Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) `Cite 11` [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
 * ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) `Cite 71` [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
@@ -82,7 +83,6 @@
 * Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) `Cite 1` [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) `Cite 193` [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (**TKDE, 2020**) `Cite 23` [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
-* ✅ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]
 
 ## Recommender Systems
 * Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer (**CIKM 2021**) `Cite 8` [[paper](https://arxiv.org/pdf/2108.06625.pdf)][[code](https://github.com/DyGRec/TGSRec)]
