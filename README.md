@@ -55,7 +55,6 @@
 * ⭐️ Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) `Cite 50` [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
 * ✅ ⭐️ DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) `Cite 151` [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
 * ✅ Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) `Cite 149` [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]
-* Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 * Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) `Cite 11` [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
 * ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) `Cite 71` [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 * ✅ Node Embedding over Temporal Graphs (**IJCAI, 2019**) `Cite 68` [[Paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[Code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
@@ -74,9 +73,10 @@
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) `Cite 20` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)][[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) `Cite 268` [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
 
-## Others
+## Less related
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
+* Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 
 ## Heterogeneous Information Network
 * HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) `Cite 1` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
