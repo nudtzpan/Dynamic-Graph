@@ -63,7 +63,7 @@
 
 * NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks (**KDD, 2018**) `Cite 154` [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/kdmsit/NetWalk)]
 * Embedding Temporal Network via Neighborhood Formation (**KDD, 2018**) `Cite 124` [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220054)][[code]()]
-* ⭐️ **DynamicTriad** Dynamic Network Embedding by Modeling Triadic Closure Process (**AAAI, 2018**) `Cite 277` [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
+* Dynamic Network Embedding by Modeling Triadic Closure Process (**AAAI, 2018**) `Cite 277` [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
 * Continuous-Time Dynamic Network Embeddings (**WWW, 2018**) `Cite 263` [[paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191526)][[code](https://github.com/Shubhranshu-Shekhar/ctdne)]
 * Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding (**IJCAI, 2018**) `Cite 134` [[paper](https://www.ijcai.org/proceedings/2018/0288.pdf)]
 
