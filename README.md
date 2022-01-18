@@ -43,7 +43,7 @@
 * ✅ Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
 * ✅ DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) `Cite 104` [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[Code](https://github.com/aravindsankar28/DySAT)]
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) `Cite 7` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
-* tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) `Cite 2` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
+* ✅ tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) `Cite 2` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
 * ✅ Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) `Cite 6` [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
 * EPNE: Evolutionary Pattern Preserving Network Embedding (**ECAI, 2020**) `Cite 1` [[paper](http://ecai2020.eu/papers/528_paper.pdf)]
 * GloDyNE: Global Topology Preserving Dynamic Network Embedding (**TKDE, 2020**) `Cite 7` [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)][[code](https://github.com/houchengbin/GloDyNE)]
