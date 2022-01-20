@@ -63,7 +63,7 @@
 `Cite 151` `Continuous` `Transductive`
 * ✅ ⭐️ **JODIE** Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]  
 `Cite 149` `Continuous` `Transductive`
-* 🌑 Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[Paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]  
+* ✅ 🌑 Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[Paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]  
 `Cite 11` `Continuous`
 * ✅ **tNodeEmbed** Node Embedding over Temporal Graphs (**IJCAI, 2019**) [[Paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[Code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]  
 `Cite 68` `Discrete`
