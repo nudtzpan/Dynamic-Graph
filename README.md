@@ -17,10 +17,10 @@
 
 * ✅ ⭐️ **CAW** Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[Paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[Code](https://github.com/snap-stanford/CAW)]  
 `Cite 10` `Continuous` `Inductive`
-* ✅ Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) [[Paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[Code](https://github.com/ZijieH/CG-ODE)]  
+* ✅ 🌑 Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) [[Paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[Code](https://github.com/ZijieH/CG-ODE)]  
 `Cite 2` `Continuous`
-* Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
-* Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space (**KDD, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
+* 🌑 Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
+* 🌑 Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space (**KDD, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
 * TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (**WWW, 2021**) `Cite 2` [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
 * Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs (**AAAI, 2021**) `Cite 6` [[paper](https://arxiv.org/pdf/2104.02228.pdf)]
 * Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (**AAAI, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
