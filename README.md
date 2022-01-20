@@ -43,7 +43,7 @@
 `Cite 232` `Discrete` `Inductive`
 * 🌑 Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) `Cite 4` [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)][[code](https://github.com/WHU-CS/HNIP)]
 * 🌑 Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) `Cite 6` [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
-* ✅ Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[Paper](https://arxiv.org/pdf/2101.02844.pdf)][[Code](https://github.com/CRIPAC-DIG/DGCF)]
+* ✅ 🌑 Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[Paper](https://arxiv.org/pdf/2101.02844.pdf)][[Code](https://github.com/CRIPAC-DIG/DGCF)]
 * ✅ DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[Code](https://github.com/aravindsankar28/DySAT)]  
 `Cite 104` `Discrete` `Transductive`
 * 🌑 Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) `Cite 7` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
