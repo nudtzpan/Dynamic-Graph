@@ -85,11 +85,13 @@
 ## Less Related
 * ✅ Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short, 2021**) [[Paper](https://arxiv.org/pdf/2110.00267.pdf)]  
 `Cite 0` `Continuous` `Inductive`
-* SDG: A Simplified and Dynamic Graph Neural Network `Cite 4` (**SIGIR Short, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
+* ✅ SDG: A Simplified and Dynamic Graph Neural Network (**SIGIR Short, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]  
+`Cite 4` `Static Graph`
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
-* ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) `Cite 71` [[Paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[Code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
+* ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[Paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[Code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]  
+`Cite 71` `Static Graph`
 
 ## Heterogeneous Information Network
 * HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) `Cite 1` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
