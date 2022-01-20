@@ -78,7 +78,7 @@
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) `Cite 268` [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
 
 ## Less Related
-* ✅ Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short, 2021**) [[paper](https://arxiv.org/pdf/2110.00267.pdf)]  
+* ✅ Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short, 2021**) [[Paper](https://arxiv.org/pdf/2110.00267.pdf)]  
 `Cite 0` `Continuous` `Inductive`
 * SDG: A Simplified and Dynamic Graph Neural Network `Cite 4` (**SIGIR Short, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
