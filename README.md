@@ -40,7 +40,7 @@
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) `Cite 11` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * ✅ Streaming Graph Neural Network (**SIGIR, 2020**) `Cite 57` [[Paper](https://arxiv.org/pdf/1810.10627.pdf)][[Code](https://github.com/alge24/DyGNN)]
 * ✅ ⭐️ **EvolveGCN** EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2020**) [[Paper](https://arxiv.org/pdf/1902.10191.pdf)][[Code](https://github.com/IBM/EvolveGCN)]  
-`Cite 232` `Discrete` `Inductive` `Transductive`
+`Cite 232` `Discrete` `Inductive`
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) `Cite 4` [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) `Cite 6` [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
 * ✅ Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
@@ -55,7 +55,7 @@
 ### 2019
 
 * Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]  
-`Cite 50` `Discrete`
+`Cite 50` `Discrete` `Transductive`
 * ✅ ⭐️ **DyRep** DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]  
 `Cite 151` `Continuous` `Transductive`
 * ✅ ⭐️ **JODIE** Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]  
