@@ -64,7 +64,6 @@
 `Cite 149` `Continuous` `Transductive`
 * ✅ Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]  
 `Cite 11` `Continuous`
-* ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) `Cite 71` [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 * ✅ Node Embedding over Temporal Graphs (**IJCAI, 2019**) `Cite 68` [[Paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[Code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
 * ✅ Temporal Network Embedding with Micro- and Macro-dynamics (**CIKM, 2019**) `Cite 33` [[paper](https://par.nsf.gov/servlets/purl/10148548)][[code](https://github.com/rootlu/MMDNE)]
 
@@ -88,6 +87,7 @@
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
+* ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) `Cite 71` [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 
 ## Heterogeneous Information Network
 * HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) `Cite 1` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
