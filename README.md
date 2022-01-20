@@ -9,6 +9,7 @@
 
 ### 2022
 
+* Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (**WWW, 2022**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
 * Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (**WSDM, 2022**) [[paper](https://arxiv.org/pdf/2110.14875.pdf)][[code](https://github.com/hyeonjeong1/cutnpeel)]
 * ✅ Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**) [[Paper](http://www.shichuan.org/doc/120.pdf)][[Code](https://github.com/BUPT-GAMMA/MetaDyGNN)]
 * On Generalizing Static Node Embedding to Dynamic Settings (**WSDM, 2022**) [[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
@@ -28,7 +29,6 @@
 * Cache-based GNN System for Dynamic Graphs (**CIKM 2021**) `Cite 0` [[paper]]
 * Self-supervised Representation Learning on Dynamic Graphs `Cite 0` (**CIKM 2021**)[[paper]]
 * Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (**CIKM 2021**) `Cite 6` [[paper](https://arxiv.org/pdf/2005.07427.pdf)]
-* Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (**ARXIV, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
 
 ### 2020
 
