@@ -39,7 +39,8 @@
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) `Cite 3` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) `Cite 11` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * ✅ Streaming Graph Neural Network (**SIGIR, 2020**) `Cite 57` [[Paper](https://arxiv.org/pdf/1810.10627.pdf)][[Code](https://github.com/alge24/DyGNN)]
-* ✅ ⭐️ **EvolveGCN** EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2020**) `Cite 232` [[Paper](https://arxiv.org/pdf/1902.10191.pdf)][[Code](https://github.com/IBM/EvolveGCN)]
+* ✅ ⭐️ **EvolveGCN** EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2020**) [[Paper](https://arxiv.org/pdf/1902.10191.pdf)][[Code](https://github.com/IBM/EvolveGCN)]
+`Cite 232` `Discrete`
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) `Cite 4` [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) `Cite 6` [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
 * ✅ Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
