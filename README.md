@@ -54,7 +54,7 @@
 ### 2019
 
 * Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) `Cite 50` [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
-* ✅ ⭐️ **DyRep** DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
+* ✅ ⭐️ **DyRep** DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]  
 `Cite 151` `Continuous`
 * ✅ ⭐️ **JODIE** Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]  
 `Cite 149` `Continuous`
