@@ -30,7 +30,7 @@
 
 ### 2020
 
-* ✅ ⭐️ **TGAT** Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[Paper](https://arxiv.org/pdf/2002.07962.pdf)][[Code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]  
+* ✅ ⭐️ **TGAT** Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[Paper](https://arxiv.org/pdf/2002.07962.pdf)][[Code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)]  
 `Cite 76` `Continuous` `Inductive`
 * ✅ **TGN** Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) [[Paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[Code](https://github.com/twitter-research/tgn)]  
 `Cite 66` `Continuous` `Inductive`
