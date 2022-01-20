@@ -46,7 +46,7 @@
 * ✅ 🌑 Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[Paper](https://arxiv.org/pdf/2101.02844.pdf)][[Code](https://github.com/CRIPAC-DIG/DGCF)]
 * ✅ DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[Code](https://github.com/aravindsankar28/DySAT)]  
 `Cite 104` `Discrete` `Transductive`
-* 🌑 Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) `Cite 7` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
+* Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) `Cite 7` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 * ✅ tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[Code](https://github.com/moranbel/tdGraphEmbed)]  
 `Cite 2` `Discrete`
 * ✅ Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[Paper](https://arxiv.org/pdf/2009.10951.pdf)][[Code](https://github.com/Junshan-Wang/ContinualGNN)]  
