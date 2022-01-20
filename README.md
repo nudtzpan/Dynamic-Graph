@@ -14,7 +14,7 @@
 * On Generalizing Static Node Embedding to Dynamic Settings (**WSDM, 2022**) [[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
 ### 2021
 
-* ✅ ⭐️ **CAW** Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
+* ✅ ⭐️ **CAW** Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)] \\
 `Cite 10`
 * Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) `Cite 2` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
