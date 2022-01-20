@@ -17,7 +17,7 @@
 
 * ✅ ⭐️ **CAW** Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[Paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[Code](https://github.com/snap-stanford/CAW)]  
 `Cite 10` `Continuous` `Inductive`
-* ✅ Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) [[Paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]  
+* ✅ Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) [[Paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[Code](https://github.com/ZijieH/CG-ODE)]  
 `Cite 2` `Continuous`
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space `Cite 3` (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
