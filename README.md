@@ -40,7 +40,7 @@
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) `Cite 11` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * ✅ Streaming Graph Neural Network (**SIGIR, 2020**) `Cite 57` [[Paper](https://arxiv.org/pdf/1810.10627.pdf)][[Code](https://github.com/alge24/DyGNN)]
 * ✅ ⭐️ **EvolveGCN** EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2020**) [[Paper](https://arxiv.org/pdf/1902.10191.pdf)][[Code](https://github.com/IBM/EvolveGCN)]  
-`Cite 232` `Discrete`
+`Cite 232` `Discrete` `Inductive` `Transductive`
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) `Cite 4` [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) `Cite 6` [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
 * ✅ Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
@@ -57,9 +57,9 @@
 * Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]  
 `Cite 50` `Discrete`
 * ✅ ⭐️ **DyRep** DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]  
-`Cite 151` `Continuous`
+`Cite 151` `Continuous` `Transductive`
 * ✅ ⭐️ **JODIE** Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) [[Paper](https://arxiv.org/pdf/1908.01207.pdf)][[Code](https://github.com/srijankr/jodie)]  
-`Cite 149` `Continuous`
+`Cite 149` `Continuous` `Transductive`
 * ✅ Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) `Cite 11` [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
 * ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) `Cite 71` [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 * ✅ Node Embedding over Temporal Graphs (**IJCAI, 2019**) `Cite 68` [[Paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[Code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
