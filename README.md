@@ -36,24 +36,24 @@
 * ✅ **TGN** Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) [[Paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[Code](https://github.com/twitter-research/tgn)]  
 `Cite 66` `Continuous` `Inductive`
 * A Data-Driven Graph Generative Model for Temporal Interaction Networks (**KDD, 2020**) `Cite 24` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
-* Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) `Cite 3` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
+* 🌑 Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) `Cite 3` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
 * Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) `Cite 11` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * ✅ Streaming Graph Neural Network (**SIGIR, 2020**) `Cite 57` [[Paper](https://arxiv.org/pdf/1810.10627.pdf)][[Code](https://github.com/alge24/DyGNN)]
 * ✅ ⭐️ **EvolveGCN** EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2020**) [[Paper](https://arxiv.org/pdf/1902.10191.pdf)][[Code](https://github.com/IBM/EvolveGCN)]  
 `Cite 232` `Discrete` `Inductive`
-* Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) `Cite 4` [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
-* Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) `Cite 6` [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
+* 🌑 Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) `Cite 4` [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
+* 🌑 Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) `Cite 6` [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
 * ✅ Dynamic Graph Collaborative Filtering (**ICDM, 2020**) `Cite 13` [[Paper](https://arxiv.org/pdf/2101.02844.pdf)][[Code](https://github.com/CRIPAC-DIG/DGCF)]
 * ✅ DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[Code](https://github.com/aravindsankar28/DySAT)]  
 `Cite 104` `Discrete` `Transductive`
-* Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) `Cite 7` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
+* 🌑 Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) `Cite 7` [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 * ✅ tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[Code](https://github.com/moranbel/tdGraphEmbed)]  
 `Cite 2` `Discrete`
 * ✅ Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[Paper](https://arxiv.org/pdf/2009.10951.pdf)][[Code](https://github.com/Junshan-Wang/ContinualGNN)]  
 `Cite 6` `Discrete`
-* EPNE: Evolutionary Pattern Preserving Network Embedding (**ECAI, 2020**) `Cite 1` [[paper](http://ecai2020.eu/papers/528_paper.pdf)]
+* 🌑 EPNE: Evolutionary Pattern Preserving Network Embedding (**ECAI, 2020**) `Cite 1` [[paper](http://ecai2020.eu/papers/528_paper.pdf)]
 * GloDyNE: Global Topology Preserving Dynamic Network Embedding (**TKDE, 2020**) `Cite 7` [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)][[code](https://github.com/houchengbin/GloDyNE)]
-* Lifelong Graph Learning (**ARXIV, 2020**) `Cite 8` [[paper](https://arxiv.org/pdf/2009.00647.pdf)]
+* 🌑 Lifelong Graph Learning (**ARXIV, 2020**) `Cite 8` [[paper](https://arxiv.org/pdf/2009.00647.pdf)]
 
 ### 2019
 
