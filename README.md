@@ -90,7 +90,7 @@
 `Cite 4` `Static Graph`
 * Forecasting Interaction Order on Temporal Graphs `Cite 0` (**KDD, 2021**) 
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) `Cite 3` [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
-* ✅ Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
+* ✅ Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) `Cite 44` [[Paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[Code](https://github.com/amy-deng/DynamicGCN)]
 * ✅ Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[Paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[Code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]  
 `Cite 71` `Static Graph`
 
