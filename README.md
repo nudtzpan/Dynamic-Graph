@@ -15,7 +15,7 @@
 ### 2021
 
 * ✅ ⭐️ **CAW** Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]  
-`Cite 10`
+`Cite 10` `Continuous` `Inductive`
 * Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) `Cite 2` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)][[code](https://github.com/ZijieH/CG-ODE)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space `Cite 3` (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
@@ -32,7 +32,8 @@
 
 ### 2020
 
-* ✅ ⭐️ **TGAT** Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) `Cite 76` [[Paper](https://arxiv.org/pdf/2002.07962.pdf)][[Code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
+* ✅ ⭐️ **TGAT** Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[Paper](https://arxiv.org/pdf/2002.07962.pdf)][[Code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]  
+`Cite 76` `Continuous` `Inductive`
 * ✅ Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) `Cite 66` [[Paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[Code](https://github.com/twitter-research/tgn)]
 * A Data-Driven Graph Generative Model for Temporal Interaction Networks (**KDD, 2020**) `Cite 24` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
 * Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) `Cite 3` [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
