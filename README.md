@@ -26,7 +26,8 @@
 * 🌑 Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (**AAAI, 2021**) `Cite 1` [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
 * 🌑 F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams (**WSDM, 2021**) `Cite 7` [[paper](https://cs.stanford.edu/people/jure/pubs/ffade-wsdm21.pdf)][[code](https://github.com/snap-stanford/F-FADE)]
 * 🌑 Cache-based GNN System for Dynamic Graphs (**CIKM 2021**) `Cite 0`
-* ⭐️ Self-supervised Representation Learning on Dynamic Graphs (**CIKM 2021**) `Cite 0`
+* ⭐️ Self-supervised Representation Learning on Dynamic Graphs (**CIKM 2021**)  
+`Cite 0` `Continuous` `Inductive`
 * 🌑 Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (**CIKM 2021**) `Cite 6`
 
 ### 2020
