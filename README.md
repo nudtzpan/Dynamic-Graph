@@ -88,6 +88,7 @@
 * Anomaly Detection in Dynamic Graphs via Transformer (**TKDE, 2021**) `Cite 7` [[paper](https://arxiv.org/pdf/2106.09876v1.pdf)][[code](https://github.com/yuetan031/TADDY_pytorch)]
 * Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (**CIKM, 2021**) `Cite 13` [[paper](https://arxiv.org/pdf/2005.07427.pdf)][[code](https://github.com/LeiCaiwsu/StrGNN)]
 * AddGraph Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN (**IJCAI, 2019**) `Cite 94` [[paper](https://www.ijcai.org/Proceedings/2019/0614.pdf)][[code](https://github.com/Ljiajie/Addgraph)]
+* NetWalk A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks (**KDD, 2018**) `Cite 184` [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/chengw07/NetWalk)]
 
 ## Less Related
 * ✅ Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short, 2021**) [[Paper](https://arxiv.org/pdf/2110.00267.pdf)]  
