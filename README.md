@@ -84,6 +84,9 @@
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) `Cite 20` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)][[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) `Cite 268` [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
 
+## Anomaly Detection
+* Anomaly Detection in Dynamic Graphs via Transformer (**TKDE, 2021**) `Cite 7` [[paper](https://arxiv.org/pdf/2106.09876v1.pdf)][[code](https://github.com/yuetan031/TADDY_pytorch)]
+
 ## Less Related
 * ✅ Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short, 2021**) [[Paper](https://arxiv.org/pdf/2110.00267.pdf)]  
 `Cite 0` `Continuous` `Inductive`
