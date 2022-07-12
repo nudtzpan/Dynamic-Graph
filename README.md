@@ -5,6 +5,12 @@
 * Representation Learning for Dynamic Graphs: A Survey (**JMLR, 2020**) [[JMLR](https://arxiv.org/pdf/1905.11485.pdf)][[Arxiv](https://arxiv.org/pdf/1905.11485v1.pdf)]
 * A Survey on Embedding Dynamic Graphs (**ARXIV, 2021**) [[Paper](https://arxiv.org/pdf/2101.01229v1.pdf)]
 
+## Anomaly Detection
+* Anomaly Detection in Dynamic Graphs via Transformer (**TKDE, 2021**) `Cite 7` [[paper](https://arxiv.org/pdf/2106.09876v1.pdf)][[code](https://github.com/yuetan031/TADDY_pytorch)]
+* Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (**CIKM, 2021**) `Cite 13` [[paper](https://arxiv.org/pdf/2005.07427.pdf)][[code](https://github.com/LeiCaiwsu/StrGNN)]
+* AddGraph Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN (**IJCAI, 2019**) `Cite 94` [[paper](https://www.ijcai.org/Proceedings/2019/0614.pdf)][[code](https://github.com/Ljiajie/Addgraph)]
+* NetWalk A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks (**KDD, 2018**) `Cite 184` [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/chengw07/NetWalk)]
+
 ## Papers
 
 ### 2022
@@ -83,12 +89,6 @@
 
 * The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) `Cite 20` [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)][[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) `Cite 268` [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
-
-## Anomaly Detection
-* Anomaly Detection in Dynamic Graphs via Transformer (**TKDE, 2021**) `Cite 7` [[paper](https://arxiv.org/pdf/2106.09876v1.pdf)][[code](https://github.com/yuetan031/TADDY_pytorch)]
-* Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (**CIKM, 2021**) `Cite 13` [[paper](https://arxiv.org/pdf/2005.07427.pdf)][[code](https://github.com/LeiCaiwsu/StrGNN)]
-* AddGraph Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN (**IJCAI, 2019**) `Cite 94` [[paper](https://www.ijcai.org/Proceedings/2019/0614.pdf)][[code](https://github.com/Ljiajie/Addgraph)]
-* NetWalk A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks (**KDD, 2018**) `Cite 184` [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/chengw07/NetWalk)]
 
 ## Less Related
 * ✅ Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR Short, 2021**) [[Paper](https://arxiv.org/pdf/2110.00267.pdf)]  
